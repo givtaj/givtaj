@@ -1,8 +1,6 @@
 Alongside my work in **healthcare and worker benefits**, I build **open-source developer tools** for testing APIs, debugging browser requests, and tracing what services do at runtime.
 I also build interactive lessons that help developers see how software works under the hood.
 
-<img src="https://skillicons.dev/icons?i=rust,ts,nodejs,threejs,docker&amp;theme=dark" height="32" alt="Rust, TypeScript, Node.js, Three.js, and Docker">
-
 # Selected projects
 
 🧭 **[Daedlo](https://daedlo.com/)** — Model a user flow in Rust, run it locally with Playwright, and inspect the evidence that an action worked, down to whether a save actually persisted. [Website](https://daedlo.com/) · [GitHub](https://github.com/givtaj/daedlo)
@@ -15,3 +13,5 @@ I also build interactive lessons that help developers see how software works und
 - 📊 **[rusta-pitest](https://github.com/givtaj/rusta-pitest)** — Check HTTP endpoints from the command line and measure latency and throughput under concurrent load. [GitHub](https://github.com/givtaj/rusta-pitest)
 - 🚦 **[Stoplight](https://github.com/givtaj/stoplight)** — Pause an outgoing API request in a Chrome tab, inspect or edit its headers and body, then let it continue. [GitHub](https://github.com/givtaj/stoplight)
 - 🔬 **[ebpf-tracker](https://github.com/givtaj/ebpf-tracker)** — Capture Linux system calls from a Rust service running in Docker, then replay the trace to inspect file opens and connection attempts. [GitHub](https://github.com/givtaj/ebpf-tracker)
+
+<img src="https://skillicons.dev/icons?i=rust,ts,nodejs,docker&amp;theme=dark" height="32" alt="Rust, TypeScript, Node.js, and Docker">
